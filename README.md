@@ -1,2 +1,2 @@
-# OperationalSuportDocs
-Documentation and operational guides for the Cloup Ops Team.
+# Operational Support Docs
+Documentation and operational guides for the CloupOps Team.
